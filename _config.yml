@@ -1,12 +1,25 @@
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+#  Home: /
+#  Archives: /archives
+#  About: /about
+#rss: /atom.xml
+excerpt_link: Read More #摘要链接文字
 
 archive_date_format: MMM DD
 fancybox: true
 
 duoshuo_shortname:
-
+widgets: #配置页脚显示哪些小挂件
+#  - category
+#  - tag
+#  - tagcloud
+#  - recent_posts
+#  - blogroll
 google_analytics:
 favicon: /favicon.ico
+#blogrolls: #友情链接
+#  - bruce sha's duapp wordpress: http://ibruce.duapp.com
+#  - bruce sha's javaeye: http://buru.iteye.com
+#  - bruce sha's oschina blog: http://my.oschina.net/buru
+#  - bruce sha's baidu space: http://hi.baidu.com/iburu
+baidu_tongji: true
